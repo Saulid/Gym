@@ -1,0 +1,59 @@
+/* Desktop */
+@media (min-device-width: 1920px) and (min-device-height: 1080px) {
+
+    /* Navbar */
+    .navbar {
+       padding: 20px;
+    }
+    .container-fluid {
+       font-size: 30px;
+    }
+    .container-fluid > a {
+       font-size: 30px;
+    }
+    .navbar-nav {
+       font-size: 24px;
+    }
+    .container-fluid > button {
+       font-size: 35px;
+    }
+ 
+    /* Main */
+    #carouselImg {
+       height: 1000px;
+    }
+ 
+    /* Class */
+    #class_Img {
+       height: 400px;
+    }
+   
+ 
+    /* About Us */
+    #about {
+       text-align: center;
+       margin-top: 20px;
+       padding-top: 14%;
+       color: #4caf50;
+    }
+ 
+    /* Contact */
+    #contact_Img {
+       height: 500px;
+    }
+ 
+    /* Footer */
+    footer > div {
+       color: #4caf50;
+       opacity: 0.5;
+       font-size: 30px;
+    }
+ 
+    /* Heading */
+    #heading {
+       text-align: center;
+       margin: 0 0 50px 0;
+       color: #4caf50;
+       font-size: 40px;
+    }
+ }

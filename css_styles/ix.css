@@ -1,0 +1,256 @@
+/* Potrait */
+
+/* iPhone X */
+@media (max-device-width: 375px) and (max-device-height: 812px) {
+
+   /* Navbar */
+   .navbar {
+      padding: 35px;
+   }
+   .container-fluid {
+      font-size: 40px;
+   }
+   .container-fluid > a {
+      font-size: 50px;
+   }
+   .navbar-nav {
+      font-size: 45px;
+   }
+   .container-fluid > button {
+      font-size: 55px;
+   }
+
+   /* Main */
+   #carouselImg {
+      height: 600px;
+   }
+
+   /* Class */
+   #class_Img {
+      height: 400px;
+   }
+  
+
+   /* About Us */
+   #about {
+      text-align: center;
+      margin-top: 20px;
+      padding-top: 25%;
+      color: #4caf50;
+   }
+
+   /* Contact */
+   #contact_Img {
+      height: 600px;
+      padding: 20px;
+   }
+   #contact_item {
+      margin-bottom: 48px;
+   }
+   #contact_header {
+      font-size: 40px;
+      color: #4caf50;
+   }
+   #contact_hr {
+      width: 100%;
+   }
+   #address, #phone, #mail {
+      font-size: 50px;
+   }
+
+   /* Footer */
+   footer > div {
+      color: #4caf50;
+      opacity: 0.5;
+      font-size: 30px;
+   }
+
+   /* Heading */
+   #heading {
+      text-align: center;
+      margin: 0 0 50px 0;
+      color: #4caf50;
+      font-size: 65px;
+   }
+}
+
+
+
+
+
+
+
+/* iPhone 12 Pro Max */
+@media (max-device-width: 428px) and (max-device-height: 926px)
+         {
+
+   /* Navbar */
+   .navbar {
+      padding: 35px;
+   }
+   .container-fluid {
+      font-size: 40px;
+   }
+   .container-fluid > a {
+      font-size: 50px;
+   }
+   .navbar-nav {
+      font-size: 45px;
+   }
+   .container-fluid > button {
+      font-size: 55px;
+   }
+
+   /* Main */
+   #carouselImg {
+      height: 600px;
+   }
+
+   /* Class */
+   #class_Img {
+      height: 400px;
+   }
+  
+
+   /* About Us */
+   #about {
+      text-align: center;
+      margin-top: 20px;
+      padding-top: 25%;
+      color: #4caf50;
+   }
+
+   /* Contact */
+   #contact_Img {
+      height: 800px;
+      padding: 20px;
+   }
+   #contact_item {
+      margin-bottom: 60px;
+   }
+   #contact_header {
+      font-size: 48px;
+      color: #4caf50;
+   }
+   #contact_hr {
+      width: 100%;
+   }
+   #address, #phone, #mail {
+      font-size: 36px;
+   }
+
+
+   /* Footer */
+   footer > div {
+      color: #4caf50;
+      opacity: 0.5;
+      font-size: 30px;
+   }
+
+   /* Heading */
+   #heading {
+      text-align: center;
+      margin: 0 0 50px 0;
+      color: #4caf50;
+      font-size: 75px;
+   }
+}
+
+
+/* ------------------------------------ */
+
+/* Landscape */
+
+/* iPhone X */
+@media (max-device-width: 812px) and (max-device-height: 375px) {
+
+   /* Navbar */
+   .navbar {
+      padding: 12px;
+   }
+   
+   .container-fluid > a {
+      font-size: 26px;
+   }
+   .navbar-nav {
+      font-size: 22px;
+   }
+   .container-fluid > button {
+      font-size: 22px;
+   }
+
+   /* About Us */
+   #about {
+      text-align: center;
+      margin-top: 20px;
+      padding-top: 25%;
+      color: #4caf50;
+   }
+
+   /* Contact */
+   #contact_Img {
+      height: 600px;
+      padding: 20px;
+   }
+   #contact_item {
+      margin-bottom: 80px;
+   }
+   #contact_header {
+      font-size: 32px;
+      color: #4caf50;
+   }
+   #contact_hr {
+      width: 100%;
+   }
+   #address, #phone, #mail {
+      font-size: 22px;
+   }
+
+   /* Heading */
+   #heading {
+      text-align: center;
+      margin: 0 0 50px 0;
+      color: #4caf50;
+      font-size: 45px;
+   }
+}
+
+/* iPhone 12 Pro Max*/
+@media (max-device-width: 926px) and (max-device-height: 428px) {
+
+   /* About Us */
+   #about {
+      text-align: center;
+      margin-top: 20px;
+      padding-top: 25%;
+      color: #4caf50;
+   }
+
+   /* Contact */
+   #contact_Img {
+      height: 600px;
+      padding: 20px;
+   }
+   #contact_item {
+      margin-bottom: 60px;
+   }
+   #contact_header {
+      font-size: 32px;
+      color: #4caf50;
+   }
+   #contact_hr {
+      width: 100%;
+   }
+   #address, #phone, #mail {
+      font-size: 22px;
+   }
+
+   /* Heading */
+   #heading {
+      text-align: center;
+      margin: 0 0 50px 0;
+      color: #4caf50;
+      font-size: 45px;
+   }
+   
+}
